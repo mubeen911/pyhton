@@ -6,5 +6,5 @@
 # print("salary is :", salry)
 
 string="heelo world"
-reverse = string[:-1]
+reverse = string[::-1]
 print(reverse)
